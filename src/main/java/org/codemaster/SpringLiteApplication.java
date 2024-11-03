@@ -3,7 +3,7 @@ package org.codemaster;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import org.codemaster.config.TomcatConfig;
+import org.codemaster.litespringboot.config.TomcatConfig;
 
 import java.io.IOException;
 

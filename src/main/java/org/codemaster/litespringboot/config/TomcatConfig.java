@@ -1,4 +1,4 @@
-package org.codemaster.config;
+package org.codemaster.litespringboot.config;
 
 import jakarta.servlet.http.HttpServlet;
 import org.apache.catalina.Context;
